@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Furnicraze/static/css/main.aeb3bffc.css",
-    "main.js": "/Furnicraze/static/js/main.cbb854b7.js",
-    "static/media/remixicon.svg?t=1590207869815": "/Furnicraze/static/media/remixicon.9cedd2150922ead84869.svg",
-    "static/media/remixicon.eot?t=1590207869815": "/Furnicraze/static/media/remixicon.5cb99e6cba5a4619063f.eot",
-    "static/media/remixicon.ttf?t=1590207869815": "/Furnicraze/static/media/remixicon.f2616f597cf98f38d234.ttf",
-    "static/media/common-section-bg.jpg": "/Furnicraze/static/media/common-section-bg.70cc93fd2e0be72cb740.jpg",
-    "static/media/hero-img.png": "/Furnicraze/static/media/hero-img.4cb525f5d6bac4b5af39.png",
-    "static/media/remixicon.woff?t=1590207869815": "/Furnicraze/static/media/remixicon.8d09fa11700ed63cf96e.woff",
-    "static/media/remixicon.woff2?t=1590207869815": "/Furnicraze/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
-    "static/media/counter-timer-img.png": "/Furnicraze/static/media/counter-timer-img.11ac8dfe1f6734c62d2f.png",
-    "index.html": "/Furnicraze/index.html",
-    "main.aeb3bffc.css.map": "/Furnicraze/static/css/main.aeb3bffc.css.map",
-    "main.cbb854b7.js.map": "/Furnicraze/static/js/main.cbb854b7.js.map"
+    "main.css": "/home/static/css/main.658d2087.css",
+    "main.js": "/home/static/js/main.89933317.js",
+    "static/media/remixicon.svg?t=1590207869815": "/home/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/home/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/home/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/common-section-bg.jpg": "/home/static/media/common-section-bg.70cc93fd2e0be72cb740.jpg",
+    "static/media/hero-img.png": "/home/static/media/hero-img.4cb525f5d6bac4b5af39.png",
+    "static/media/remixicon.woff?t=1590207869815": "/home/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/home/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/counter-timer-img.png": "/home/static/media/counter-timer-img.11ac8dfe1f6734c62d2f.png",
+    "index.html": "/home/index.html",
+    "main.658d2087.css.map": "/home/static/css/main.658d2087.css.map",
+    "main.89933317.js.map": "/home/static/js/main.89933317.js.map"
   },
   "entrypoints": [
-    "static/css/main.aeb3bffc.css",
-    "static/js/main.cbb854b7.js"
+    "static/css/main.658d2087.css",
+    "static/js/main.89933317.js"
   ]
 }
