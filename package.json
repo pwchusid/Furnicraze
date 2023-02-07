@@ -2,7 +2,7 @@
   "name": "Furnicraze-ecommerce",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pwchusid.github.io/Furnicraze",
+  "homepage": "http://pwchusid.github.io/home",
   "dependencies": {
     "@paypal/react-paypal-js": "^7.8.2",
     "@reduxjs/toolkit": "^1.8.5",
