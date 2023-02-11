@@ -87,7 +87,7 @@ const Header = () => {
             <div className="logo">
               <img src={logo} alt="logo" />
               <div>
-                <h1>Furnicraze</h1>
+                <h1><NavLink to='home'>Furnicraze</NavLink></h1>
               </div>
             </div>
 
