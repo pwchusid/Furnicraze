@@ -8,7 +8,8 @@
   --card-bg-03: #ceebe9;
   --card-bg-04: #e2f2b2;
   --primary-color: #0a1d37;
-  --hero-bg: #d6e5fb;
+  --secondary-color:#F79164;
+  --hero-bg: #F79164;
   --heading-fontSize: 2rem;
   --small-text-color: #999;
   --heading-text-color: #0a1d37;
@@ -19,11 +20,12 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  
+
 }
 
 body {
   font-family: "Montserrat", sans-serif;
+
 }
 
 h1,
