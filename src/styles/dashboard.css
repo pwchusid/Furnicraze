@@ -11,14 +11,14 @@
 }
 
 .products__box {
-  background: var(--card-bg-03);
+  background: var(--card-bg-01);
 }
 
 .order__box {
-  background: var(--card-bg-04);
+  background: var(--card-bg-01);
 }
 .users__box {
-  background: var(--card-bg-04);
+  background: var(--card-bg-01);
 }
 
 .revenue__box h5,

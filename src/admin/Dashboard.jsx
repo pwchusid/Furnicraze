@@ -27,7 +27,7 @@ const Dashboard = () => {
             </Col>
             <Col className="lg-3">
               <div className="products__box">
-                <h5>Total Products</h5>
+                <h5>Products</h5>
                 <span>{products.length}</span>
               </div>
             </Col>
