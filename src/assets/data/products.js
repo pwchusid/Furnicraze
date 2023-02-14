@@ -97,7 +97,7 @@ const products = [
   {
     id: "26",
     productName: "Rivet Bigelow Modern ",
-    imgUrl: productImg02,
+    imgUrl: productImg03,
     category: "sofa",
     price: 253,
     shortDesc:
@@ -120,7 +120,7 @@ const products = [
     id: "04",
     productName: "Fllufy Sheep Sofa",
     imgUrl: productImg04,
-    category: "sofa",
+    category: "chair",
     price: 163,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -143,7 +143,7 @@ const products = [
     id: "05",
     productName: "Faux Velvet Sofa",
     imgUrl: productImg05,
-    category: "sofa",
+    category: "chair",
     price: 163,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -210,7 +210,7 @@ const products = [
   {
     id: "27",
     productName: "Modern Arm Sofa",
-    imgUrl: productImg007,
+    imgUrl: productImg08,
     category: "sofa",
     price: 173,
     shortDesc:
@@ -233,7 +233,7 @@ const products = [
   {
     id: "08",
     productName: "Baltsar Chair",
-    imgUrl: productImg08,
+    imgUrl: productImg09,
     category: "chair",
     price: 89,
     shortDesc:
@@ -256,7 +256,7 @@ const products = [
   {
     id: "09",
     productName: "Helmar Chair",
-    imgUrl: productImg09,
+    imgUrl: productImg10,
     category: "chair",
     price: 112,
     shortDesc:
@@ -279,7 +279,7 @@ const products = [
   {
     id: "10",
     productName: "Apple iPhone 12 Pro",
-    imgUrl: productImg13,
+    imgUrl: productImg11,
     category: "mobile",
     price: 799,
     shortDesc:
@@ -301,7 +301,7 @@ const products = [
   {
     id: "25",
     productName: "Sakarias Armchair",
-    imgUrl: productImg10,
+    imgUrl: productImg12,
     category: "chair",
     price: 99,
     shortDesc:
@@ -323,7 +323,7 @@ const products = [
   {
     id: "11",
     productName: "Apple iPhone 12 Max",
-    imgUrl: productImg14,
+    imgUrl: productImg13,
     category: "mobile",
     price: 799,
     shortDesc:
@@ -346,7 +346,7 @@ const products = [
   {
     id: "12",
     productName: "Realme 8",
-    imgUrl: productImg15,
+    imgUrl: productImg14,
     category: "mobile",
     price: 599,
     shortDesc:
@@ -369,7 +369,7 @@ const products = [
   {
     id: "13",
     productName: "One Plus Nord",
-    imgUrl: productImg16,
+    imgUrl: productImg15,
     category: "mobile",
     price: 799,
     shortDesc:
@@ -392,7 +392,7 @@ const products = [
   {
     id: "14",
     productName: "Apple iPhone 13 Pro",
-    imgUrl: productImg17,
+    imgUrl: productImg16,
     category: "mobile",
     price: 899,
     shortDesc:
@@ -415,7 +415,7 @@ const products = [
   {
     id: "15",
     productName: "Samsung Galaxy S22",
-    imgUrl: productImg18,
+    imgUrl: productImg17,
     category: "mobile",
     price: 699,
     shortDesc:
@@ -438,7 +438,7 @@ const products = [
   {
     id: "16",
     productName: "Rolex Watch",
-    imgUrl: productImg19,
+    imgUrl: productImg18,
     category: "watch",
     price: 299,
     shortDesc:
@@ -461,7 +461,7 @@ const products = [
   {
     id: "17",
     productName: "Timex Easy Reader Watch",
-    imgUrl: productImg20,
+    imgUrl: productImg19,
     category: "watch",
     price: 299,
     shortDesc:
@@ -484,7 +484,7 @@ const products = [
   {
     id: "18",
     productName: "Rolex Watch",
-    imgUrl: productImg21,
+    imgUrl: productImg20,
     category: "watch",
     price: 299,
     shortDesc:
@@ -507,7 +507,7 @@ const products = [
   {
     id: "19",
     productName: "Apple Watch",
-    imgUrl: productImg22,
+    imgUrl: productImg21,
     category: "watch",
     price: 399,
     shortDesc:
@@ -530,7 +530,7 @@ const products = [
   {
     id: "20",
     productName: "Beat Studio Wireless",
-    imgUrl: productImg23,
+    imgUrl: productImg22,
     category: "wireless",
     price: 199,
     shortDesc:
@@ -553,7 +553,7 @@ const products = [
   {
     id: "22",
     productName: "Beat EP Headphones",
-    imgUrl: productImg25,
+    imgUrl: productImg23,
     category: "wireless",
     price: 199,
     shortDesc:
