@@ -4,10 +4,10 @@ import productImg03 from "../images/big_sofa03.jpg";
 
 import productImg04 from "../images/gaming_chair01.jpg";
 import productImg05 from "../images/gaming_chair02.jpg";
-import productImg06 from "../images/single-sofa-03.jpg";
-import productImg007 from "../images/single-sofa-04.png";
+import productImg06 from "../images/TV_01.jpg";
+import productImg007 from "../images/TV_02.jpg";
 
-import productImg07 from "../images/arm-chair-01.jpg";
+import productImg07 from "../images/Monitor_01.jpg";
 import productImg08 from "../images/arm-chair-02.jpg";
 import productImg09 from "../images/arm-chair-03.jpg";
 import productImg10 from "../images/arm-chair-01.jpg";
