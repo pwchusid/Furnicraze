@@ -27,23 +27,23 @@ const Home = () => {
 
   useEffect(() => {
     const filteredTrendingProducts = products.filter(
-      item => item.category === "chair"
-    );
-
-    const filteredBestSalesProducts = products.filter(
       item => item.category === "sofa"
     );
 
+    const filteredBestSalesProducts = products.filter(
+      item => item.category === "chair"
+    );
+
     const filteredMobileProducts = products.filter(
-      item => item.category === "mobile"
+      item => item.category === "screens"
     );
 
     const filteredWirelessProducts = products.filter(
-      item => item.category === "wireless"
+      item => item.category === "lighting"
     );
 
     const filteredPopularProducts = products.filter(
-      item => item.category === "watch"
+      item => item.category === "tech"
     );
 
     setTrendingProducts(filteredTrendingProducts);
