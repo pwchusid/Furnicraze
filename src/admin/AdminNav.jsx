@@ -17,7 +17,7 @@ const admin__nav = [
   },
 
   {
-    display: "+Products",
+    display: "Add Products",
     path: "/dashboard/add-product",
   },
   {
