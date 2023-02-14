@@ -8,8 +8,8 @@ import productImg06 from "../images/TV_01.jpg";
 import productImg007 from "../images/TV_02.jpg";
 
 import productImg07 from "../images/Monitor_01.jpg";
-import productImg08 from "../images/arm-chair-02.jpg";
-import productImg09 from "../images/arm-chair-03.jpg";
+import productImg08 from "../images/Monitor_02.jpg";
+import productImg09 from "../images/Monitor_03.jpg";
 import productImg10 from "../images/arm-chair-01.jpg";
 
 import productImg13 from "../images/phone-01.jpg";
