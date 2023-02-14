@@ -1,9 +1,9 @@
-import productImg01 from "../images/double-sofa-01.png";
-import productImg02 from "../images/double-sofa-02.png";
-import productImg03 from "../images/double-sofa-03.png";
+import productImg01 from "../images/big_sofa01.jpg";
+import productImg02 from "../images/big_sofa02.jpg";
+import productImg03 from "../images/big_sofa03.jpg";
 
-import productImg04 from "../images/single-sofa-01.jpg";
-import productImg05 from "../images/single-sofa-02.jpg";
+import productImg04 from "../images/gaming_chair01.jpg";
+import productImg05 from "../images/gaming_chair02.jpg";
 import productImg06 from "../images/single-sofa-03.jpg";
 import productImg007 from "../images/single-sofa-04.png";
 
@@ -32,12 +32,12 @@ import productImg25 from "../images/wireless-03.png";
 const products = [
   {
     id: "01",
-    productName: "Stone and Beam Westview ",
+    productName: "Red Robbin'",
     imgUrl: productImg01,
     category: "sofa",
     price: 193,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "A couch so beautiful, it's a steal!",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
