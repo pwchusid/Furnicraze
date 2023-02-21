@@ -21,7 +21,7 @@ const serviceData = [
   {
     icon: "ri-customer-service-2-fill",
     title: "24/7 Online Support",
-    subtitle: "No hold music!",
+    subtitle: "Chat or call anyday",
     bg: "#d6e5fb",
   },
 ];
