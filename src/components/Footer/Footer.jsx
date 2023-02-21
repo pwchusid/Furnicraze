@@ -17,9 +17,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="footer__text mt-4">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
-              dolor labore eveniet vitae nulla itaque soluta sit provident
-              consectetur laboriosam?
+              Come join the Furniture craze down at furnicraze; where best-in-class products meet can't-be-beat prices.
             </p>
           </Col>
 
