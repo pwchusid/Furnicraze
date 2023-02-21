@@ -3,7 +3,7 @@ const serviceData = [
   {
     icon: "ri-truck-line",
     title: "Free Shipping",
-    subtitle: "On orders over $150",
+    subtitle: "Online orders over $150",
     bg: "#fdefe6",
   },
   {
