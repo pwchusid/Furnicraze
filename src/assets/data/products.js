@@ -10,23 +10,23 @@ import productImg007 from "../images/TV_02.jpg";
 import productImg07 from "../images/Monitor_01.jpg";
 import productImg08 from "../images/Monitor_02.jpg";
 import productImg09 from "../images/Monitor_03.jpg";
-import productImg10 from "../images/arm-chair-01.jpg";
+import productImg10 from "../images/console-1.jpg";
 
 import productImg13 from "../images/lamp1.webp";
 import productImg14 from "../images/lamp2.jpg";
 import productImg15 from "../images/lamp3.jpg";
 import productImg16 from "../images/lamp4.jpg";
 import productImg17 from "../images/lamp5.jpg";
-import productImg18 from "../images/phone-06.jpg";
+import productImg18 from "../images/console-2.jpg";
 
-import productImg19 from "../images/watch-01.jpg";
-import productImg20 from "../images/watch-02.jpg";
-import productImg21 from "../images/watch-03.jpg";
-import productImg22 from "../images/watch-04.jpg";
+import productImg19 from "../images/laptop-1.jpg";
+import productImg20 from "../images/laptop-2.jpg";
+import productImg21 from "../images/phone-1.jpg";
+import productImg22 from "../images/phone-2.jpg";
 
-import productImg23 from "../images/wireless-01.png";
+import productImg23 from "../images/speaker-1.jpg";
 
-import productImg25 from "../images/wireless-03.png";
+import productImg25 from "../images/speaker-2.jpg";
 
 
 const products = [
