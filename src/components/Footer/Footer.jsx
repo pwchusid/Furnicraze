@@ -28,19 +28,19 @@ const Footer = () => {
               <h4 className="quick__links-title">Top Categories</h4>
               <ListGroup>
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Mobile Phones</Link>
+                  <Link to="#">Chairs & Sofas</Link>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Modern Sofa</Link>
+                  <Link to="#">Lighting</Link>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Arm Chair</Link>
+                  <Link to="#">Screens</Link>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Smart Watches</Link>
+                  <Link to="#">Tech</Link>
                 </ListGroupItem>
               </ListGroup>
             </div>
@@ -63,7 +63,7 @@ const Footer = () => {
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Privacy Policy</Link>
+                  <Link to="/home">Home</Link>
                 </ListGroupItem>
               </ListGroup>
             </div>
@@ -91,7 +91,9 @@ const Footer = () => {
                   <span>
                     <i class="ri-mail-line"></i>
                   </span>
-                  <p>peterwchusid@gmail.com</p>
+                  <p>peterwchusid@gmail.com
+                    milesechavez@gmail.com
+                  </p>
                 </ListGroupItem>
               </ListGroup>
             </div>
@@ -99,7 +101,7 @@ const Footer = () => {
 
           <Col lg="12">
             <p className="footer__copyright">
-              Copyright {year} developed by Peter Chusid. All rights reserved.
+              Copyright {year} developed by Peter Chusid & Miles Echavez. All rights reserved.
             </p>
           </Col>
         </Row>
