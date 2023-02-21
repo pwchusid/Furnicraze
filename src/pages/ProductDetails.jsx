@@ -1,8 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
-
 import { Container, Row, Col } from "reactstrap";
 import { useParams } from "react-router-dom";
-
 import Helmet from "../components/Helmet/Helmet";
 import CommonSection from "../components/UI/CommonSection";
 import "../styles/product-details.css";
@@ -25,6 +23,7 @@ const ProductDetails = () => {
 
   const [rating, setRating] = useState(null);
   const { id } = useParams();
+  
 
   const { data: products } = useGetData("products");
 

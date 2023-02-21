@@ -60,12 +60,10 @@ const Home = () => {
           <Row>
             <Col lg="6" md="6">
               <div className="hero__content">
-                <p className="hero__subtitle">Trending product in {year}</p>
-                <h2>Make Your Interior More Minimalistic & Modern </h2>
+                <p className="hero__subtitle">Latest craze of {year}</p>
+                <h2>Welcome to Elegance, Goodbye to tacky </h2>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                  Quaerat nulla repellat quo eaque alias corporis sunt, facilis
-                  nesciunt rem fugit!
+                  We've paired up with the interior design industry's best and greatest to bring you unapologetically beautiful pairings that will be the envy of all your neighbors.
                 </p>
 
                 <motion.button whileTap={{ scale: 1.2 }} className="buy__btn">
@@ -76,6 +74,7 @@ const Home = () => {
 
             <Col lg="6" md="6">
               <div className="hero__img">
+                
                 <img src={heroImg} alt="" />
               </div>
             </Col>
