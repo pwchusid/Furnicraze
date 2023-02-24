@@ -85,7 +85,9 @@ const Header = () => {
         <Row>
           <div className="nav__wrapper">
             <div className="logo">
+              <a href='./home'>
               <img src={logo} alt="logo" />
+              </a>
               <div>
                 <h1><NavLink to='home'>Furnicraze</NavLink></h1>
               </div>
@@ -110,8 +112,6 @@ const Header = () => {
 
             <div className="nav__icons">
               <span className="fav__icon">
-                <i class="ri-heart-line"></i>
-                <span className="badge">2</span>
               </span>
               <span className="cart__icon" onClick={navigateToCart}>
                 <i class="ri-shopping-bag-line"></i>
