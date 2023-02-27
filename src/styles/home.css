@@ -1,7 +1,7 @@
 .hero__section {
     background: var(--hero-bg);
   }
-  
+
   .hero__content h2 {
     color: var(--primary-color);
     font-size: 2.5rem;
@@ -13,10 +13,16 @@
     color: var(--primary-color);
     line-height: 28px;
   }
+
+  .hero__img {
+    position: relative;
+    top: 30%;
+  }
   
   .hero__section p:nth-child(1) {
     font-weight: 500;
   }
+
   
   .buy__btn {
     border: none;
@@ -63,7 +69,12 @@
     .hero__content h2 {
       font-size: 2rem;
     }
-  
+
+    .hero__img {
+      position: relative;
+      top: 40%;
+    }
+
     .section__title {
       font-size: 1.7rem;
     }
@@ -97,7 +108,12 @@
     .hero__content p {
       font-size: 0.9rem;
     }
-  
+
+    .hero__img {
+      position: relative;
+      top: 10%;
+    }
+
     .buy__btn a {
       font-size: 0.9rem;
     }
