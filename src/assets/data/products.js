@@ -3,30 +3,30 @@ import productImg02 from "../images/big_sofa02.jpg";
 import productImg03 from "../images/big_sofa03.jpg";
 
 import productImg04 from "../images/gaming_chair01.jpg";
-import productImg05 from "../images/gaming_chair02.jpg";
+import productImg05 from "../images/gaming_chair02.png";
 import productImg06 from "../images/TV_01.jpg";
-import productImg007 from "../images/TV_02.jpg";
+import productImg07 from "../images/TV_02.jpg";
 
-import productImg07 from "../images/Monitor_01.jpg";
-import productImg08 from "../images/Monitor_02.jpg";
-import productImg09 from "../images/Monitor_03.jpg";
-import productImg10 from "../images/console-1.jpg";
+import productImg08 from "../images/Monitor_01.jpg";
+import productImg09 from "../images/Monitor_02.jpg";
+import productImg10 from "../images/Monitor_03.jpg";
+import productImg11 from "../images/console-1.jpg";
 
-import productImg13 from "../images/lamp1.webp";
-import productImg14 from "../images/lamp2.jpg";
-import productImg15 from "../images/lamp3.jpg";
-import productImg16 from "../images/lamp4.jpg";
-import productImg17 from "../images/lamp5.jpg";
-import productImg18 from "../images/console-2.jpg";
+import productImg12 from "../images/lamp1.webp";
+import productImg13 from "../images/lamp2.jpg";
+import productImg14 from "../images/lamp3.jpg";
+import productImg15 from "../images/lamp4.jpg";
+import productImg16 from "../images/lamp5.jpg";
+import productImg17 from "../images/console-2.jpg";
 
-import productImg19 from "../images/laptop-1.jpg";
-import productImg20 from "../images/laptop-2.jpg";
-import productImg21 from "../images/phone-1.jpg";
-import productImg22 from "../images/phone-2.jpg";
+import productImg18 from "../images/laptop-1.jpg";
+import productImg19 from "../images/laptop-2.jpg";
+import productImg20 from "../images/phone-1.jpg";
+import productImg21 from "../images/phone-2.jpg";
 
-import productImg23 from "../images/speaker-1.jpg";
+import productImg22 from "../images/speaker-1.jpg";
 
-import productImg25 from "../images/speaker-2.jpg";
+import productImg23 from "../images/speaker-2.jpg";
 
 
 const products = [
@@ -550,28 +550,6 @@ const products = [
     avgRating: 4.8,
   },
 
-  {
-    id: "22",
-    productName: "Beat EP Headphones",
-    imgUrl: productImg24,
-    category: "wireless",
-    price: 199,
-    shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-    reviews: [
-      {
-        rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-      {
-        rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-    ],
-    avgRating: 4.8,
-  },
 ];
 
 export default products;
