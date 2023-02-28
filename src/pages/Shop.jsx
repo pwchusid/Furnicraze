@@ -48,7 +48,13 @@ const Shop = () => {
   };
 
 
-  
+  const handleSearch = e =>{
+    const searchTerm = e.target.value 
+
+    const searchedProducts = products.filter(item=> item.productName.toLowerCase().includes(searchTerm.toLowerCase()))
+
+    setProductsData(searchedProducts)
+  }
 
   return (
     <Helmet title="Shop">
@@ -82,9 +88,7 @@ const Shop = () => {
               <div className="search__box">
                 <input
                   type="text"
-                  placeholder="Search......"
-                 
-                />
+                  placeholder="Search......" onChange={handleSearch}/>
                 <span>
                   <i class="ri-search-line"></i>
                 </span>
