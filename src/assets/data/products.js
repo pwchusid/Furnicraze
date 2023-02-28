@@ -34,7 +34,7 @@ const products = [
     id: "01",
     productName: "Red Robbin'",
     imgUrl: productImg01,
-    category: "sofa",
+    category: "tech",
     price: 193,
     shortDesc:
       "A couch so beautiful, it's a steal!",
