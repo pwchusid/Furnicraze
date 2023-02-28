@@ -120,8 +120,8 @@ const Home = () => {
           <Row>
             <Col lg="6" md="12" className="count__down-col">
               <div className="clock__top-content">
-                <h4 className="text-white fs-6 mb-2">Limited Offers</h4>
-                <h3 className="text-white fs-5 mb-3">Quality Armchair</h3>
+                <h4 className="text-white fs-6 mb-2">Limited time only!</h4>
+                <h3 className="text-white fs-5 mb-3">Blowout Sale!</h3>
               </div>
               <Clock />
 
