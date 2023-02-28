@@ -20,6 +20,31 @@ const Shop = () => {
 
         setProductsData(filteredProducts);
       }
+
+
+      if(filterValue==="chair"){
+        const filteredProducts = products.filter((item) => item.category==='chair');
+
+        setProductsData(filteredProducts);
+      }
+
+      if(filterValue==="screens"){
+        const filteredProducts = products.filter((item) => item.category==='screens');
+
+        setProductsData(filteredProducts);
+      }
+
+      if(filterValue==="lighting"){
+        const filteredProducts = products.filter((item) => item.category==='lighting');
+
+        setProductsData(filteredProducts);
+      }
+
+      if(filterValue==="tech"){
+        const filteredProducts = products.filter((item) => item.category==='tech');
+
+        setProductsData(filteredProducts);
+      }
   };
 
   return (
