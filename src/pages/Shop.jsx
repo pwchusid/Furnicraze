@@ -10,8 +10,9 @@ import ProductsList from "../components/UI/ProductsList";
 import useGetData from "../custom-hooks/useGetData";
 
 const Shop = () => {
+  const {data: products} = useGetData("products");
   const [productsData, setProductsData] = useState(products);
-
+  
 
   const handleFilter = (e) => {
     const filterValue = e.target.value;
