@@ -4,19 +4,19 @@ const serviceData = [
     icon: "ri-truck-line",
     title: "Free Shipping",
     subtitle: "Online orders over $150",
-    bg: "#fdefe6",
+    bg: "#d6e5fb",
   },
   {
     icon: "ri-refresh-line",
     title: "Easy Returns",
     subtitle: "Satisfaction Guaranteed",
-    bg: "#ceebe9",
+    bg: "#d6e5fb",
   },
   {
     icon: "ri-secure-payment-line",
     title: "Secure Payment",
     subtitle: "Encrypted via Paypal",
-    bg: "#e2f2b2",
+    bg: "#d6e5fb",
   },
   {
     icon: "ri-customer-service-2-fill",

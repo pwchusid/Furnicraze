@@ -103,7 +103,7 @@ const Shop = () => {
         <Container>
           <Row>
             {productsData.length === 0 ? (
-              <h1 className="text-center fs-4">No products are found!</h1>
+              <h1 className="text-center fs-4">Filter your categories!</h1>
             ) : (
               <ProductsList data={productsData} />
             )}
