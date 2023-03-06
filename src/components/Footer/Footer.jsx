@@ -26,19 +26,19 @@ const Footer = () => {
               <h4 className="quick__links-title">Top Categories</h4>
               <ListGroup>
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Chairs & Sofas</Link>
+                  <Link to="#">Trending</Link>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Lighting</Link>
+                  <Link to="#">Best Sales</Link>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Screens</Link>
+                  <Link to="#">New Arrivals</Link>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Tech</Link>
+                  <Link to="#">Popular</Link>
                 </ListGroupItem>
               </ListGroup>
             </div>
