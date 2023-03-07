@@ -27,19 +27,19 @@ const Footer = () => {
               <h4 className="quick__links-title">Top Categories</h4>
               <ListGroup>
                 <ListGroupItem className="ps-0 border-0">
-                <HashLink smooth to="#trending__products">Trending</HashLink>
+                <HashLink smooth to="/home/#trending__products">Trending</HashLink>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                <HashLink smooth to="#best__sales">Best Sales</HashLink>
+                <HashLink smooth to="/home/#best__sales">Best Sales</HashLink>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                <HashLink smooth to="#new__arrivals">New Arrivals</HashLink>
+                <HashLink smooth to="/home/#new__arrivals">New Arrivals</HashLink>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                <HashLink smooth to="#popular__category">Popular</HashLink>
+                <HashLink smooth to="/home/#popular__category">Popular</HashLink>
                 </ListGroupItem>
               </ListGroup>
             </div>
