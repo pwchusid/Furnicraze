@@ -140,7 +140,7 @@ const Home = () => {
         </Container>
       </section>
 
-      <section className="new__arrivals">
+      <section className="new__arrivals" id="new__arrivals">
         <Container>
           <Row>
             <Col lg="12" className="text-center ">

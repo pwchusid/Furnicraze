@@ -35,7 +35,7 @@ const Footer = () => {
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">New Arrivals</Link>
+                <HashLink to="#new__arrivals">New Arrivals</HashLink>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
