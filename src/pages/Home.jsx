@@ -83,7 +83,7 @@ const Home = () => {
       </section>
 
       <Services />
-      <section className="trending__products" id="trending__products">
+      <section className="trending__products">
         <Container>
           <Row>
             <Col lg="12" className="text-center">

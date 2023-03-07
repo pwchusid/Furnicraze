@@ -1,5 +1,6 @@
 .product__item {
     cursor: pointer;
+    max-width: 75%;
   }
   
   .product__info h3 a {
