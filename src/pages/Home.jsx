@@ -99,7 +99,7 @@ const Home = () => {
         </Container>
       </section>
 
-      <section className="best__sales">
+      <section className="best__sales" id="best__sales">
         <Container>
           <Row>
             <Col lg="12" className="text-center">

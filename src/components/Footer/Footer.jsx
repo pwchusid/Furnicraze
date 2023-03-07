@@ -1,5 +1,6 @@
 import React from "react";
 import "./footer.css";
+import { HashLink } from 'react-router-hash-link';
 
 import { Container, Row, Col, ListGroup, ListGroupItem } from "reactstrap";
 import { Link } from "react-router-dom";
@@ -26,7 +27,7 @@ const Footer = () => {
               <h4 className="quick__links-title">Top Categories</h4>
               <ListGroup>
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Trending</Link>
+                <HashLink to="#trending__products">Trending</HashLink>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
