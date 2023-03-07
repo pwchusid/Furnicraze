@@ -43,3 +43,9 @@
     text-align: center;
   }
   
+  .Scrolltotop {
+    border: none;
+    margin-top: 50px;
+    font-size: large;
+    font-weight: bold;
+  }
