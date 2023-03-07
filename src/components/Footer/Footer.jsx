@@ -27,19 +27,19 @@ const Footer = () => {
               <h4 className="quick__links-title">Top Categories</h4>
               <ListGroup>
                 <ListGroupItem className="ps-0 border-0">
-                <HashLink to="#trending__products">Trending</HashLink>
+                <HashLink smooth to="#trending__products">Trending</HashLink>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                <HashLink to="#best__sales">Best Sales</HashLink>
+                <HashLink smooth to="#best__sales">Best Sales</HashLink>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                <HashLink to="#new__arrivals">New Arrivals</HashLink>
+                <HashLink smooth to="#new__arrivals">New Arrivals</HashLink>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Popular</Link>
+                <HashLink smooth to="#popular__category">Popular</HashLink>
                 </ListGroupItem>
               </ListGroup>
             </div>
@@ -93,6 +93,10 @@ const Footer = () => {
                   <p>peterwchusid@gmail.com
                     milesechavez@gmail.com
                   </p>
+                </ListGroupItem>
+
+                <ListGroupItem className="Scrolltotop">
+                <HashLink smooth to="#top">Scroll To Top</HashLink>
                 </ListGroupItem>
               </ListGroup>
             </div>

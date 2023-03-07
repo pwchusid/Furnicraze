@@ -160,7 +160,7 @@ const Home = () => {
         </Container>
       </section>
 
-      <section className="popular__category">
+      <section className="popular__category" id="popular__category">
         <Container>
           <Row>
             <Col lg="12" className="text-center mb-5">
