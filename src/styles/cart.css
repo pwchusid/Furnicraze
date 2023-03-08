@@ -3,6 +3,10 @@
     height: 80px !important;
     object-fit: contain;
   }
+
+  .table {
+    margin-top: 80px;
+  }
   
   td i {
     cursor: pointer;

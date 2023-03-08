@@ -15,6 +15,7 @@ const AllProducts = () => {
 
   return (
     <section>
+      <h1 className="warning">Hello World</h1>
       <Container>
         <Row>
           <Col lg="12">
