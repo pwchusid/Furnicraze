@@ -1,42 +1,43 @@
 {
   "files": {
-    "main.css": "/Furnicraze/static/css/main.4e3ef085.css",
-    "main.js": "/Furnicraze/static/js/main.0ca61b97.js",
+    "main.css": "/Furnicraze/static/css/main.2dba6c58.css",
+    "main.js": "/Furnicraze/static/js/main.9cbddc4a.js",
     "static/media/remixicon.svg?t=1590207869815": "/Furnicraze/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/hero-img.png": "/Furnicraze/static/media/hero-img.4a36479c3c5d0bef5c42.png",
     "static/media/counter-timer-img.png": "/Furnicraze/static/media/counter-timer-img.82e3a8540836490b1d40.png",
     "static/media/remixicon.eot?t=1590207869815": "/Furnicraze/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/Furnicraze/static/media/remixicon.f2616f597cf98f38d234.ttf",
-    "static/media/TV_01.png": "/Furnicraze/static/media/TV_01.38102723fb75ba8ec75b.png",
     "static/media/common-section-bg.jpg": "/Furnicraze/static/media/common-section-bg.ccda50dcf218ab9d9539.jpg",
     "static/media/remixicon.woff?t=1590207869815": "/Furnicraze/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/remixicon.woff2?t=1590207869815": "/Furnicraze/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/TV_01.png": "/Furnicraze/static/media/TV_01.a834baa718ac4dca8f8f.png",
     "static/media/gaming_chair02.png": "/Furnicraze/static/media/gaming_chair02.e156a9cc81d99dc37825.png",
     "static/media/Monitor_01.jpg": "/Furnicraze/static/media/Monitor_01.9bb467ef6f52430a8cc6.jpg",
+    "static/media/big_sofa03.jpg": "/Furnicraze/static/media/big_sofa03.57c593dfb87c71771ce4.jpg",
     "static/media/Monitor_02.jpg": "/Furnicraze/static/media/Monitor_02.9302448c21c47608a4fc.jpg",
     "static/media/laptop-2.jpg": "/Furnicraze/static/media/laptop-2.533b097498f3fd4ed4d0.jpg",
     "static/media/Monitor_03.jpg": "/Furnicraze/static/media/Monitor_03.d139fb4155b4e67c0e10.jpg",
     "static/media/TV_02.jpg": "/Furnicraze/static/media/TV_02.280e22ac04c5b842942b.jpg",
     "static/media/laptop-1.jpg": "/Furnicraze/static/media/laptop-1.a68ac66aa5332cb0556f.jpg",
-    "static/media/big_sofa02.jpg": "/Furnicraze/static/media/big_sofa02.ca40ad9e98bd6bb3dd23.jpg",
     "static/media/phone-2.jpg": "/Furnicraze/static/media/phone-2.010191fc034300c19e88.jpg",
     "static/media/gaming_chair01.jpg": "/Furnicraze/static/media/gaming_chair01.f81e5ba3686898fe88d4.jpg",
     "static/media/lamp3.jpg": "/Furnicraze/static/media/lamp3.3688e432092ef6c0df03.jpg",
     "static/media/speaker-1.jpg": "/Furnicraze/static/media/speaker-1.90f17043e85db7c016b5.jpg",
-    "static/media/big_sofa03.jpg": "/Furnicraze/static/media/big_sofa03.bd320d49460a7d21ef2d.jpg",
     "static/media/speaker-2.jpg": "/Furnicraze/static/media/speaker-2.498f643fa0fcb6b996fd.jpg",
+    "static/media/big_sofa02.jpg": "/Furnicraze/static/media/big_sofa02.78315fc609ad38f2be2f.jpg",
     "static/media/console-2.jpg": "/Furnicraze/static/media/console-2.79fff16bc603aa999455.jpg",
     "static/media/console-1.jpg": "/Furnicraze/static/media/console-1.62ea039a6d12b86e7114.jpg",
+    "static/media/big_sofa01.jpg": "/Furnicraze/static/media/big_sofa01.1723afd779077040dd61.jpg",
     "static/media/lamp4.jpg": "/Furnicraze/static/media/lamp4.eada561e47b49cc1107b.jpg",
     "static/media/phone-1.jpg": "/Furnicraze/static/media/phone-1.6b6da245ca0da15b219a.jpg",
     "static/media/lamp5.jpg": "/Furnicraze/static/media/lamp5.3f5866dac41f27ddee7c.jpg",
     "static/media/lamp1.webp": "/Furnicraze/static/media/lamp1.4908ad1c12f19c6f3c4c.webp",
     "index.html": "/Furnicraze/index.html",
-    "main.4e3ef085.css.map": "/Furnicraze/static/css/main.4e3ef085.css.map",
-    "main.0ca61b97.js.map": "/Furnicraze/static/js/main.0ca61b97.js.map"
+    "main.2dba6c58.css.map": "/Furnicraze/static/css/main.2dba6c58.css.map",
+    "main.9cbddc4a.js.map": "/Furnicraze/static/js/main.9cbddc4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e3ef085.css",
-    "static/js/main.0ca61b97.js"
+    "static/css/main.2dba6c58.css",
+    "static/js/main.9cbddc4a.js"
   ]
 }
