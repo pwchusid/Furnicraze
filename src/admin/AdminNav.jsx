@@ -1,10 +1,11 @@
-import React from "react";
+import React, { useRef } from "react";
 import { Container, Row } from "reactstrap";
-
+import { motion } from "framer-motion";
 import useAuth from "../custom-hooks/useAuth";
 import "../styles/admin-nav.css";
 
-import { NavLink } from "react-router-dom";
+import { NavLink  } from "react-router-dom";
+
 
 const admin__nav = [
   {
@@ -32,7 +33,8 @@ const admin__nav = [
 
 const AdminNav = () => {
   const { currentUser } = useAuth();
-
+  const menuRef = useRef(null);
+  const menuToggle = () => menuRef.current.classList.toggle("active__menu");
   return (
     <>
       <header className="admin__header">
@@ -62,7 +64,28 @@ const AdminNav = () => {
           </Container>
         </div>
       </header>
-
+      <div className="mobile__menu">
+                <span onClick={menuToggle}>
+                  <i class="ri-menu-line"></i>
+                </span>
+              </div>
+      <div className="navigation" ref={menuRef} onClick={menuToggle}>
+              <motion.ul className="menu">
+                {admin__nav.map((item, index) => (
+                  <li className="nav__item" key={index}>
+                    <NavLink
+                      to={item.path}
+                      className={navClass =>
+                        navClass.isActive ? "nav__active" : ""
+                      }
+                    >
+                      {item.display}
+                    </NavLink>
+                  </li>
+                ))}
+              </motion.ul>
+              
+            </div>
       <section className="admin__menu p-0">
         <Container>
           <Row>
@@ -84,6 +107,7 @@ const AdminNav = () => {
             </div>
           </Row>
         </Container>
+        
       </section>
     </>
   );
