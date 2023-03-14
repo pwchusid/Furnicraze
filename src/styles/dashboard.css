@@ -4,6 +4,9 @@
 .users__box {
   padding: 20px;
   border-radius: 5px;
+  display: grid;
+  justify-content: space-evenly;
+  justify-items: center;
 }
 
 .revenue__box {
@@ -53,6 +56,35 @@
 .products__box,
 .users__box {
   width: 140px;
-  margin: 20px;
+  margin: 10px 50px;
+  display: grid;
+  justify-content: space-evenly;
+  justify-items: center;
+}
+}
+
+@media only screen and (max-width: 530px) {
+  .revenue__box,
+.order__box,
+.products__box,
+.users__box {
+  width: 140px;
+  margin: 10px 20px;
+  display: grid;
+  justify-content: space-evenly;
+  justify-items: center;
+}
+}
+
+@media only screen and (max-width: 412px) {
+  .revenue__box,
+.order__box,
+.products__box,
+.users__box {
+  width: 200px;
+  margin: 10px 85px;
+  display: grid;
+  justify-content: space-evenly;
+  justify-items: center;
 }
 }
