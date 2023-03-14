@@ -10,6 +10,7 @@
     font-size: 1.5rem;
     color: #dc3545;
     font-weight: bold;
+    margin: auto 30%;
   }
 
   .table {
@@ -25,3 +26,16 @@
     color: var(--primary-color);
   }
   
+
+@media only screen and (max-width: 1250px) {
+  .warning {
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (max-width: 825px) {
+  .warning {
+    font-size: 0.9rem;
+    margin: auto 20%;
+  }
+}
