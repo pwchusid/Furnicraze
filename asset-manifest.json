@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Furnicraze/static/css/main.2dba6c58.css",
-    "main.js": "/Furnicraze/static/js/main.9cbddc4a.js",
+    "main.css": "/Furnicraze/static/css/main.23ddceec.css",
+    "main.js": "/Furnicraze/static/js/main.d389c0ff.js",
     "static/media/remixicon.svg?t=1590207869815": "/Furnicraze/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/hero-img.png": "/Furnicraze/static/media/hero-img.4a36479c3c5d0bef5c42.png",
     "static/media/counter-timer-img.png": "/Furnicraze/static/media/counter-timer-img.82e3a8540836490b1d40.png",
@@ -33,11 +33,11 @@
     "static/media/lamp5.jpg": "/Furnicraze/static/media/lamp5.3f5866dac41f27ddee7c.jpg",
     "static/media/lamp1.webp": "/Furnicraze/static/media/lamp1.4908ad1c12f19c6f3c4c.webp",
     "index.html": "/Furnicraze/index.html",
-    "main.2dba6c58.css.map": "/Furnicraze/static/css/main.2dba6c58.css.map",
-    "main.9cbddc4a.js.map": "/Furnicraze/static/js/main.9cbddc4a.js.map"
+    "main.23ddceec.css.map": "/Furnicraze/static/css/main.23ddceec.css.map",
+    "main.d389c0ff.js.map": "/Furnicraze/static/js/main.d389c0ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dba6c58.css",
-    "static/js/main.9cbddc4a.js"
+    "static/css/main.23ddceec.css",
+    "static/js/main.d389c0ff.js"
   ]
 }
