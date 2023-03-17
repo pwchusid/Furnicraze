@@ -1,2 +1,9 @@
 # Furnicraze
-This is a collaboration project between Peter Chusid and Miles Echavez which demonstrates advanced familiarity with full-stack development. Watch this space for updates and other exciting features.
+This is a full-stack collaboration project between Peter Chusid and Miles Echavez built with React, Redux, JavaScript, CSS and firebase.
+
+## Installation and Setup
+You will need `node` and `npm` installed globally on your computer. Then clone this repository.
+Installation:
+`npm install`
+To start server:
+`npm start`
