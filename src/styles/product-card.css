@@ -36,6 +36,10 @@
     .product__info h3 a {
       font-size: 1.1rem;
     }
+
+    .product__item {
+      max-width: 100%;
+    }
   }
   
   @media only screen and (max-width: 768px) {
