@@ -16,7 +16,7 @@ const AllProducts = () => {
   return (
     <section>
       <h1 className="warning">Feel free to add products and browse the site freely, but please do not delete any of these placeholder products! </h1>
-      <Container>
+      <Container className="table-responsive">
         <Row>
           <Col lg="12">
             <table className="table">
