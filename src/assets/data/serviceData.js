@@ -15,7 +15,7 @@ const serviceData = [
   {
     icon: "ri-secure-payment-line",
     title: "Secure Payment",
-    subtitle: "Encrypted via Paypal",
+    subtitle: "Encrypted transactions",
     bg: "#d6e5fb",
   },
   {
