@@ -160,4 +160,10 @@
         line-height: 60px;
       }
     }
+
+    @media only screen and (max-width: 777px) {
+      .admin__nav-wrapper-top .search__box {
+        display: none;
+      }
+    }
   }
