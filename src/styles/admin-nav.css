@@ -91,7 +91,7 @@
 
     @media only screen and (max-width: 768px) {
 
-      ul.menu {
+      ul.nav__menu {
         display: flex;
         padding: 5px;
         line-height: 3;
@@ -111,7 +111,7 @@
         display: none;
       }
     
-      .menu {
+      .nav__menu {
         position: absolute;
         top: 0;
         right: 0;
