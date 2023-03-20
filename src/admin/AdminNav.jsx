@@ -70,7 +70,7 @@ const AdminNav = () => {
                 </span>
               </div>
       <div className="navigation" ref={menuRef} onClick={menuToggle}>
-              <motion.ul className="menu">
+              <motion.ul className="nav__menu">
                 {admin__nav.map((item, index) => (
                   <li className="nav__item" key={index}>
                     <NavLink
