@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Furnicraze/static/css/main.8bdc4a64.css",
-    "main.js": "/Furnicraze/static/js/main.42c2bdb7.js",
+    "main.css": "/Furnicraze/static/css/main.7f4e925d.css",
+    "main.js": "/Furnicraze/static/js/main.a8cab7c9.js",
     "static/media/remixicon.svg?t=1590207869815": "/Furnicraze/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/hero-img.png": "/Furnicraze/static/media/hero-img.4a36479c3c5d0bef5c42.png",
     "static/media/counter-timer-img.png": "/Furnicraze/static/media/counter-timer-img.82e3a8540836490b1d40.png",
@@ -29,15 +29,16 @@
     "static/media/console-1.jpg": "/Furnicraze/static/media/console-1.62ea039a6d12b86e7114.jpg",
     "static/media/big_sofa01.jpg": "/Furnicraze/static/media/big_sofa01.1723afd779077040dd61.jpg",
     "static/media/lamp4.jpg": "/Furnicraze/static/media/lamp4.eada561e47b49cc1107b.jpg",
+    "static/media/fc_logo11.jpg": "/Furnicraze/static/media/fc_logo11.21a45ac6f30382045cab.jpg",
     "static/media/phone-1.jpg": "/Furnicraze/static/media/phone-1.6b6da245ca0da15b219a.jpg",
     "static/media/lamp5.jpg": "/Furnicraze/static/media/lamp5.3f5866dac41f27ddee7c.jpg",
     "static/media/lamp1.webp": "/Furnicraze/static/media/lamp1.4908ad1c12f19c6f3c4c.webp",
     "index.html": "/Furnicraze/index.html",
-    "main.8bdc4a64.css.map": "/Furnicraze/static/css/main.8bdc4a64.css.map",
-    "main.42c2bdb7.js.map": "/Furnicraze/static/js/main.42c2bdb7.js.map"
+    "main.7f4e925d.css.map": "/Furnicraze/static/css/main.7f4e925d.css.map",
+    "main.a8cab7c9.js.map": "/Furnicraze/static/js/main.a8cab7c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bdc4a64.css",
-    "static/js/main.42c2bdb7.js"
+    "static/css/main.7f4e925d.css",
+    "static/js/main.a8cab7c9.js"
   ]
 }
