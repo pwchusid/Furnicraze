@@ -24,7 +24,7 @@
   .nav__wrapper h1 {
     font-size: 1.9rem;
     font-weight: 700;
-    color: rgb(39, 124, 251);
+    color: var(--secondary-color);
   }
   
   .menu {
