@@ -13,18 +13,18 @@
   .logo {
     display: flex;
     align-items: center;
-    column-gap: 8px;
+    column-gap: 12px;
   }
   
   .logo img {
-    width: 1.5rem;
-    height: 1.5rem;
+    width: 3.9rem;
+    height: 3.9rem;
   }
   
-  .logo h1 {
-    font-size: 1.2rem;
+  .nav__wrapper h1 {
+    font-size: 1.9rem;
     font-weight: 700;
-    color: var(--primary-color);
+    color: rgb(39, 124, 251);
   }
   
   .menu {
