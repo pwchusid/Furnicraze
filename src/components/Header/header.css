@@ -80,6 +80,8 @@
     height: 30px;
     cursor: pointer;
     border-radius: 50%;
+    position: relative;
+    bottom: 5px;
   }
   
   .nav__icons .profile {
