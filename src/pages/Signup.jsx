@@ -116,6 +116,7 @@ const Signup = () => {
                       onChange={(e) => setFile(e.target.files[0])}
                     />
                   </FormGroup>
+                  <p>Password must be at least six characters. Images must be in the .jpg format and smaller than 900x900. </p>
 
                   <button type="submit" className="buy__btn auth__btn">
                     Create an Account

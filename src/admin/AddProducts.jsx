@@ -68,7 +68,7 @@ const AddProducts = () => {
               <h4 className="py-5 ">Loading.......</h4>
             ) : (
               <>
-                <h4 className="mb-5">Add Product</h4>
+                <h4 className="mb-5">Add your product to the UI on the homepage. Images must be between 1x1 and 600x600.</h4>
                 <Form onSubmit={addProduct}>
                   <FormGroup className="form__group">
                     <span>Product title</span>
