@@ -1,6 +1,6 @@
 # Furnicraze
 
-![Alt text](/src/assets/images/Furnicraze-Screenshot.jpg?raw=true)
+![Alt text](/src/assets/images/furnicraze_thumbnail.jpg?raw=true)
 ![GitHub all releases](https://img.shields.io/github/downloads/pwchusid/Furnicraze/total?color=green&logo=GitHub)
 ![GitHub repo size](https://img.shields.io/github/repo-size/pwchusid/Furnicraze)
 ![GitHub watchers](https://img.shields.io/github/watchers/pwchusid/Furnicraze?style=social)
